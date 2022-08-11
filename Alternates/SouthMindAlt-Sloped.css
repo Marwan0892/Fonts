@@ -1,0 +1,12 @@
+/* Webfont: SouthMindAlt-Sloped */@font-face {
+    font-family: 'SouthMindAltSloped';
+    src: url('SouthMindAlt-Sloped.eot'); /* IE9 Compat Modes */
+    src: url('SouthMindAlt-Sloped.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('SouthMindAlt-Sloped.woff') format('woff'), /* Modern Browsers */
+         url('SouthMindAlt-Sloped.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('SouthMindAlt-Sloped.svg#SouthMindAlt-Sloped') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
